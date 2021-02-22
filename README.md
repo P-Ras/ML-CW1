@@ -1,10 +1,14 @@
 # ML-CW1
+The report aims to identify the best classification model for car default loans predictions and analysis the effects of imbalanced data and feature importance.
 
-The repository consist of two files:
-1) Assignment-Oversampling: 
-Using oversampling to balance training dataset for four classification models.
-This is a main file that analyses most of questions highlight in the report, such as feature engineering, balancing data and feature importance. 
-
-2) Assignment-SMOTE
-Using SMOTE to balance training dataset for four classification models. 
-This file does not have feature importance analysis. 
+The repository consist of two files - Assignment-Oversampling and Assignment-SMOTE. Each share the same content but using different balancing data methods. 
+Both files will include the following topics:
+- Data Preprocessing
+- Feature Engineering
+- Imbalanced data prediction with Random Forest
+- Balanced data prediction 
+  1) Logistic Regression
+  2) Decision Tree
+  3) Random Forest
+  4) Support Vector Machine
+- Feature Importance (not include in Assignment-SMOTE)
