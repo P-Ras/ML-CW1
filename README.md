@@ -1,4 +1,4 @@
-# ML-CW1
+# Predict Default Loans
 The report aims to identify the best classification model for car default loans predictions and analysis the effects of imbalanced data and feature importance.
 
 The repository consist of two files - Assignment-Oversampling and Assignment-SMOTE. Each share the same content but using different balancing data methods. 
